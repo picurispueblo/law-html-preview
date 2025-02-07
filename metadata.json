@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-02-05",
+      "build-date": "2025-02-07",
       "codified-date": "2019-03-01",
       "platform": {
         "reproducible": "false",
-        "version": "2.14.5"
+        "version": "2.15.4"
       },
       "repositories": [
         {
-          "commit": "2547a545b4b5e474a9545d137f0f26aebcbc0793",
+          "commit": "30eff188fa1ae349c1063fac39a2aab1fd5749dd",
           "name": "picurispueblo/law-xml"
         },
         {
-          "commit": "53880ce9e7a546c78b275cdc56600d933733b9d2",
+          "commit": "f868d3ba273ff73ca87ccda6946ead5fa6d5f3c9",
           "name": "picurispueblo/law-xml-codified-preview"
         }
       ]
