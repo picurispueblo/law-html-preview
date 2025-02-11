@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "0103d9147996a07ca7c141ab357f020cef1ff29d",
+          "commit": "4d8b7fe0367242a83fce76f1779c9e4780a1bf47",
           "name": "picurispueblo/law-xml"
         },
         {
-          "commit": "abaff2eec3ec2033423afa3ae877380b61db7e4d",
+          "commit": "d0133ea9e8684625f597ed1be0d4d754fe5b91a4",
           "name": "picurispueblo/law-xml-codified-preview"
         }
       ]
