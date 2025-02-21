@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-02-13",
+      "build-date": "2025-02-21",
       "codified-date": "2019-03-01",
       "platform": {
         "reproducible": "false",
@@ -13,7 +13,7 @@
           "name": "picurispueblo/law-xml"
         },
         {
-          "commit": "b38bb9b5edd0414f0379ffd03d82380cbc30f73f",
+          "commit": "54ad907945a221861ad479dd89778dca0b31f329",
           "name": "picurispueblo/law-xml-codified-preview"
         }
       ]
